@@ -1,0 +1,64 @@
+BLAZE THE CAT AND SONIC THE WEREHOG DISCORD BOTS SONG CODES
+
+Below is the song codes for the Sonic the Hedgehog Music bots. The commands below is from Blaze the Cat which its prefix is: ms!
+If you are using Sonic the Werehog, the prefix is sw! so you would do sw!play instead of ms!play
+This is the GITHUB version incase if you can't access our website for whatever reason.
+
+A continuación se muestran los códigos de las canciones para los bots de Sonic the Hedgehog Music. Los siguientes comandos son de Blaze the Cat, cuyo prefijo es: ms!
+Si está utilizando Sonic the Werehog, el prefijo es sw! entonces harías sw!play en lugar de ms!play
+Esta es la versión GITHUB en caso de que no pueda acceder a nuestro sitio web por cualquier motivo.
+
+Nachfolgend finden Sie die Songcodes für die Sonic the Hedgehog Music-Bots. Die folgenden Befehle stammen von Blaze the Cat, dessen Präfix lautet: ms!
+Wenn Sie Sonic the Werehog verwenden, lautet das Präfix sw! Sie würden also sw!play anstelle von ms!play verwenden
+Dies ist die GITHUB-Version für den Fall, dass Sie aus irgendeinem Grund nicht auf unsere Website zugreifen können.
+
+
+
+
+FULL SONGS
+ms!play cityescape = Escape from the City - Sonic Adventure 2
+ms!play itdoesntmatter = It Doesnt Matter - Sonic Adventure 2 OST
+ms!play sunshine = Can you feel the Sunshine - Sonic R OST
+ms!play backintime = Back in Time - Sonic R OST
+ms!play sonicboom = Sonic Boom - Sonic CD OST
+ms!play youcandoanything = You can Do anything - Sonic CD OST
+ms!play sevenrings = Seven Rings in Hand - Sonic and the Secret Rings OST
+ms!play reachforthestars = Reach for the Stars - Sonic Colors OST
+ms!play throughthefire = Through the Fire - Sonic and the Black knight OST
+ms!play iamallofme = I am all of me - Shadow the Hedgehog
+ms!play neverturnback = Never Turn Back - Shadow the Hedgehog
+ms!play teamsonicracingsystemselect = Team Sonic Racing OST - System Select
+ms!play burningdepths - Burning Depths (Sonic and All Stars Racing Transformed
+
+SHORT SONGS
+ms!play soniccdpass = Sonic CD Zone Clear Jingle
+ms!play sonicadvactclear = Sonic Advance Zone Clear
+ms!play sonicatbkclear = Sonic and the Black Knight Zone Clear
+ms!play sonicrracefinish = Sonic R Race Finish Jingle
+
+REMIXES
+ms!play cityescape_littlev = Escape from the City - Little V RMX
+ms!play cityescape_nwtb = City Escape - Nate Wants To Battle
+ms!play cityescape_funk = Escape from the City - Funk RMX feat. Lyn-C
+ms!play iamallofme_littlev = I am all of me - Little V Cover
+ms!play iamallofme_nwtb = I am all of me - Nate Wants To Battle
+ms!play sunshine_littlev = Can you feel the Sunshine - Little V Cover
+
+EXTRA SOUNDS
+ms!play sunshine2
+ms!play secretrings
+ms!play rollingaround
+
+FILTERS (-n = Nightcore, -g = Ripped from Games, -16bit = 16bit remix)
+ms!play cityescape-n
+ms!play sonicboom-n
+ms!play youcandoanything-n
+ms!play cityescape_16bit-n
+ms!play neverturnback-n
+ms!play sonicboom-g
+ms!play soniccdpass-g
+ms!play cityescape-16bit
+ms!play sonicboom-16bit
+
+
+NOTE: Translations were made with Google Translate
