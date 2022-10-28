@@ -1,0 +1,14 @@
+==THE BOT IS NOT RESPONDING==
+Make sure to check if bot is online. If it is offline, something might have went wrong. Check the support server for any outages in #bot-outages.
+If it is online, make sure the bot can Read Messages, Send messages, and Embed Links in your channel. (make sure to check the channel permissions overrides as well to see if this is the problem)
+
+==I CANT HEAR THE BOT==
+First, make sure the bot is not muted. If it shows a red mic in VC, it means it is server muted. (Ask a Server moderator or admin to unmute the bot). If it shows a grey microphone, it means it does not have permission to speak. If it shows a grey microphone with a red slash, it means you muted it at your end.
+Second, Make sure to check your sound output settings for discord and for your device.
+Third, you may have entered the song code wrong. Remember that song codes are case sensetive.
+
+==AUDIO IS LAGGY/GLITCHY==
+Normally if the Audio is laggy of glitchy, most of the time, it can have something to do with your internet. Your internet connection may be weak.
+
+==WHAT NOW?==
+If none of this helped your issue, join our support server: https://discord.gg/j9Tt7h2UkG . A Support Team Member will be able to assist you.
