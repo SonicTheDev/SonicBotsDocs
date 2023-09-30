@@ -1,0 +1,62 @@
+BONNIE/CHICA DISCORD BOTS SONG CODES
+
+Below is the song codes for the Five Nights at Freddy's Music bots. The commands below is from the Bonnie bot which its prefix is: b!
+Chica's prefix is: c!
+This is the GITHUB version incase if you can't access our website for whatever reason.
+
+
+FIVE NIGHTS AT FREDDY'S 1:
+b!play fnaf1musicbox = FNAF 1 Music Box
+b!play fnaf1musicbox8bit = FNAF 1 Music Box in 8-bit
+b!play fnaf1song = FNAF 1 Song - The Living Tombstone
+b!play fnaf1rap = FNAF 1 RAP (Five Long Nights) by JT MUSIC
+b!play wewantout = We Want Out - DAGames
+
+FIVE NIGHTS AT FREDDY'S 2:
+b!play nothereallnight = Not Here All Night - DAGames
+b!play nothereallnightremaster = Not Here All Night Remastered - DAGames
+b!play fnaf2rap = FNAF 2 RAP (Five More Nights) by JT MUSIC
+
+FIVE NIGHTS AT FREDDY'S 3:
+b!play fnaf3rap = FNAF 3 RAP (Another Five Nights) by JT MUSIC
+b!play itstimetodie = Its time to die - DAGames
+b!play itstimetodieremaster = Its time to die (Official Remastered Version) - DAGames
+b!play itstimetodie8bit = Its time to die 8bit Remix
+b!play imthepurpleguy = Im the Purple Guy - DAGames
+b!play imthepurpleguyremaster = Im the Purple Guy Remastered - DAGames
+b!play imthepurpleguy8bit = Im the Purple Guy 8bit Remix - Re-Load
+b!play imthepurpleguypiano = Im the Purple Guy Piano Cover
+b!play imthepurpleguyjolastuco = Im the Purple Guy - Cover by Jolastuco
+
+FIVE NIGHTS AT FREDDY'S 4:
+b!play fnaf4rap = FNAF 4 Rap by JT Music
+b!play breakmymind = Break My Mind - DAGames
+b!play gameover - Game Over - DAGames
+b!play igotnotime = I got no time (FNAF 4) - The Living Tombstone BONUS
+b!play fnaf4 = FNAF 4 SONG - TryHardNinja
+b!play thisistheend = This is the End - TryHardNinja
+
+FIVE NIGHTS AT FREDDY'S SISTER LOCATION:
+b!play fnafslrap = FNAF Sister Location Rap (You belong here) - JT Music
+b!play leftbehind = Left Behind - DAGames
+b!play leftbehindcg5 = Left Behind Cover by CG5
+b!play joinusforabite = Join us for a bite - JT Music
+b!play welcomeback = Welcome Back - TryHardNinja
+b!play leftbehindelectro = Left Behind Electro Swing Remix - DAGames
+
+FIVE NIGHTS AT FREDDY'S SECURITY BREACH:
+b!play fnafsbrap = FNAF Security Breach Rap by JT Music
+b!play megapizzaplex = Mega PizzaPlex by Kule Allen Music
+b!play movingupintheworld = Moving Up In the World - DAGames
+b!play sbtheme = FNAF Security Breach Theme Full
+b!play foreverandever = Forever and Ever Freddy and Friends theme
+b!play closetohome = Close to Home - DAGames
+
+OTHER:
+b!play iwillnotbemoved = I will not be moved - DAGames
+b!play iwillnotbemovedremix = I will not be moved Juicestain Remix - DAGam
+b!play obsolete = Obsolete - NateWantsToBattle
+b!play lookatmenow = Look at me Now Cover/Remix my APAngryPiggy - TryHardNinja ft Muscape
+b!play parasite = PARASITE - DAGames
+b!play fnafchristmas = FNAF Christmas by JT Music
+b!play flumptysjam = Flumpty's Jam - DAGames

@@ -1,9 +1,16 @@
+SONIC THE HEDGEHOG'S BOT TROUBLESHOOTING
+Is the Sonic or FNAF Music bots not working, here is some troubleshooting tips that is common to encounter.
+
+
 ==THE BOT IS NOT RESPONDING==
 Make sure to check if bot is online. If it is offline, something might have went wrong. Check the support server for any outages in #bot-outages.
 If it is online, make sure the bot can Read Messages, Send messages, and Embed Links in your channel. (make sure to check the channel permissions overrides as well to see if this is the problem)
 
 ==I CANT HEAR THE BOT==
-First, make sure the bot is not muted. If it shows a red mic in VC, it means it is server muted. (Ask a Server moderator or admin to unmute the bot). If it shows a grey microphone, it means it does not have permission to speak. If it shows a grey microphone with a red slash, it means you muted it at your end.
+First, make sure the bot is not muted. If it shows a red mic in VC, it means it is server muted. If it shows a grey microphone, it means it does not have permission to speak. If it shows a grey microphone with a red slash, it means you muted it at your end.
+- To fix red microphone mute, Ask a Server moderator or admin to unmute the bot
+- to fix the grey microphone mute, ensure the bot has permission to speak. Make sure to check the channel overrides as well.
+- To fix the grey microphone with red slash mute, right click on the bot and uncheck "Mute"
 Second, Make sure to check your sound output settings for discord and for your device.
 Third, you may have entered the song code wrong. Remember that song codes are case sensetive.
 

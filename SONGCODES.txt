@@ -1,13 +1,9 @@
-BLAZE THE CAT AND SONIC THE WEREHOG DISCORD BOTS SONG CODES
+SONIC THE HEDGEHOG, SONIC THE WEREHOG, AND SHADOW THE KNIGHT DISCORD BOTS SONG CODES
 
 Below is the song codes for the Sonic the Hedgehog Music bots. The commands below is from Sonic the Werehog which its prefix is: sw!
+Sonic the Hedgehog's prefix is: sh!
+Shadow the Knight's prefix is: sk!
 This is the GITHUB version incase if you can't access our website for whatever reason.
-
-A continuación se muestran los códigos de las canciones para los bots de Sonic the Hedgehog Music. Los siguientes comandos son de Blaze the Cat, cuyo prefijo es: sw!
-Esta es la versión GITHUB en caso de que no pueda acceder a nuestro sitio web por cualquier motivo.
-
-Nachfolgend finden Sie die Songcodes für die Sonic the Hedgehog Music-Bots. Die folgenden Befehle stammen von Blaze the Cat, dessen Präfix lautet: sw!
-Dies ist die GITHUB-Version für den Fall, dass Sie aus irgendeinem Grund nicht auf unsere Website zugreifen können.
 
 
 FULL SONGS
