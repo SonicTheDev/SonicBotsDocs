@@ -6,8 +6,9 @@ Shadow the Knight's prefix is: sk!
 This is the GITHUB version incase if you can't access our website for whatever reason.
 
 
+
 FULL SONGS
-sw!play cityescape = Escape from the City - Sonic Adventure 2
+sw!play cityescape = Escape from the City - Sonic Adventure 2 OST
 sw!play itdoesntmatter = It Doesnt Matter - Sonic Adventure 2 OST
 sw!play sunshine = Can you feel the Sunshine - Sonic R OST
 sw!play backintime = Back in Time - Sonic R OST
@@ -16,11 +17,12 @@ sw!play youcandoanything = You can Do anything - Sonic CD OST
 sw!play sevenrings = Seven Rings in Hand - Sonic and the Secret Rings OST
 sw!play reachforthestars = Reach for the Stars - Sonic Colors OST
 sw!play throughthefire = Through the Fire - Sonic and the Black knight OST
-sw!play iamallofme = I am all of me - Shadow the Hedgehog
-sw!play neverturnback = Never Turn Back - Shadow the Hedgehog
-sw!play teamsonicracingsystemselect = Team Sonic Racing OST - System Select
-sw!play greenlightride = Green Light Ride - Team Sonic Racing
-sw!play burningdepths - Burning Depths (Sonic and All Stars Racing Transformed
+sw!play iamallofme = I am all of me - Shadow the Hedgehog OST
+sw!play neverturnback = Never Turn Back - Shadow the Hedgehog OST
+sw!play teamsonicracingsystemselect = System Select - Team Sonic Racing OST
+sw!play greenlightride = Green Light Ride - Team Sonic Racing OST
+sw!play burningdepths - Burning Depths (Sonic and All Stars Racing Transformed OST
+sw!play undefeatable - Undefeatable - Sonic Frontiers OST
 
 SHORT SONGS
 sw!play soniccdpass = Sonic CD Zone Clear Jingle
@@ -53,5 +55,7 @@ sw!play cityescape-16bit
 sw!play sonicboom-16bit
 sw!play greenlightride-g
 
-
-NOTE: Translations were made with Google Translate
+BONUS (Originally from SHADOW.EXE)
+sw!play hillact1 = Plays Hill Act 1 Reversed
+sw!play pegasusdevice = Plays Pegasus Device from SlythStorm
+sw!play thisishalloween = Plays This is Halloween by Izzy Reign

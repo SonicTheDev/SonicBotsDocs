@@ -1,0 +1,51 @@
+CAT PEACH DISCORD BOT SONG CODES
+
+This is all the song ids for the play command on the Cat Peach Music Bot now owned by Sonic the Dev.
+Cat Peach's prefix is cp!
+This is the GITHUB version incase if you can't access our website for whatever reason.
+
+
+
+ORIGINAL OSTs
+b!play ashley = Ashleys Song
+b!play ashleyjp = Ashleys Song in Japanese
+b!play kirbyssb
+b!play bowserjrappears = Bowser Jr Appears - Mario Party 10 OST
+b!play fromanewworld = From a New World - Mario and Sonic at the Rio 2016 Games OST
+b!play superbellhillms = Super Bell Hill - Mario and Sonic at the Rio 2016 Games OST
+b!play aswimmingduet = Aquatics Swimming Duet - Mario and Sonic at the 2012 Games (3DS) OST
+b!play superbellhill = Super Bell Hill
+b!play kirbykss = Gournment Race Kirby Super Star
+b!play londonloopfinallap = MKT - London Loop Final Lap
+b!play mh3on3characters = Character Select - Mario Hoops 3on3
+b!play mlbisgrandfinale = Grand Finale - Mario and Luigi Bowsers Inside Story
+
+JINGLES
+b!play worldclear = SM3DW Clear Jingle
+b!play victoryparade = SM3DW Boss Clear Victory Parade
+
+REMIXES
+b!play ashleymetal = Ashley's Song RockMetal - Gabocarina96
+b!play kirby8bit = Gournment Race 8bit
+b!play kirbyksss = Gourment Race Kirby Super Star Synthesia
+b!play kirbymetal = Gournment Race Metal Cover - ToxicEternity
+b!play kirbymetal2 = Another Gournment Race Metal Cover - RichaadEB
+b!play kirbydlmetal = Gournment Race Metal Cover - Arathrum (From Kirby Dream Land)
+b!play kirbysymphonicmetal = Gournment Race Intense Symphonic Metal Cover
+b!play superbellhill16bit = Super Bell Hill 16bit
+
+SOUND EFFECTS
+b!play marioburned = Mario Burning
+b!play mariofailclassic = Mario Game Over sound effect classic
+
+FILTERS
+b!play mh3on3characters-n = Character Select - Mario Hoops 3on3 OST NIGHTCORE
+b!play kirbymetal-n = Gourment Race Metal Nightcore
+b!play kirbyksss-n = Gourment Race Kirby Super Star Synthesia Nightcore
+
+BONUS
+b!play potcmpc = Pirates of the Caribbean - Mario Paint Composer
+b!play potcmpcrock = Pirates of the Caribbean - Mario Paint Composer ROCK
+b!play astronomiasm64 = Astronomia Super Mario 64 RMX
+b!play ressespuffs = Resses Puff Super Mario Remix
+b!play dkchristmasrap = DK crew is coming to town

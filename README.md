@@ -9,6 +9,7 @@ This is the official github documentation repo for SonicTheHedgehog#4570's Sonic
 - BOTLISTS.txt - Shows botlists our bots are on
 - SONGCODES.txt - View the song codes for the Sonic Music/Soundboard bots
 - FNAFSONGCODES.txt - View the song codes for the Five Nights at Freddy's Music/Soundboard bots
+- NINTENDOSONGCODES - View the song codes for the Nintendo Music bot: Cat Peach
 - TROUBLESHOOTING.txt - View troubleshooting tips for common issues.
 
 ### Sonic Music/Soundboard Bots
