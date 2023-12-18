@@ -1,16 +1,21 @@
 Hello. This file shows links to what botlists our bots are on. This will let you vote for our bots on a botlist as well.
 
 ==DISCORD BOTS:==
-Sonic the Hedgehog#6059 (Music Bot 1)
+Sonic the Hedgehog#6059 (Sonic Music Bot 1)
 DiscordExtremeList: https://discordextremelist.xyz/en-US/bots/722641234409029656
 RadarCord: https://radarcord.net/bot/722641234409029656
-Voidbots: https://voidbots.net/bot/722641234409029656
 
-Sonic the Werehog#7639 (Music Bot 2)
+Sonic the Werehog#7639 (Sonic Music Bot 2)
 RadarCord: https://radarcord.net/bot/823697477374050305
+
+Jet the Hawk Female#8365
+NO BOTLISTS
 
 Bonnie Bot#1291 (FNAF Music Bot)
 RadarCord: https://radarcord.net/bot/1096332456539455608
+
+Cat Peach Bot#8301 (Nintendo/Mario Music and Soundboard bot)
+NO BOTLISTS
 
 ==REVOLT BOTS==
 COMING SOON
